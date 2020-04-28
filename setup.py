@@ -26,7 +26,7 @@ def get_version():
 
 
 setup(
-    name='boto3',
+    name='boto3-1-9-147',
     version=get_version(),
     description='The AWS SDK for Python',
     long_description=open('README.rst').read(),
